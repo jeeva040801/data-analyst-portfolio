@@ -28,4 +28,4 @@ EDA, Data Cleaning, RFM Segmentation, Customer Analysis, Churn Modeling, Statist
 📂 Folder: 01_EDA_Ecommerce/
 📓 Notebook: analysis.ipynb
 📄 Full Analysis: README.md
-→ View Project Details
+→ [View Project Details](./ecommerce-rfm-churn)
