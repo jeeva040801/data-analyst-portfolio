@@ -1,0 +1,28 @@
+E-COMMERCE CUSTOMER ANALYTICS - KEY FINDINGS
+=============================================
+
+📊 CUSTOMER SEGMENTS:
+- Champions: 987 (21.4%) - High-value, frequent, recent
+- Loyal: 1,060 (23%) - Good customers 
+- At Risk: 1,309 (28.4%) - Inactive for 90+ days
+- Lost: 1,252 (27.2%) - Likely gone
+
+🎯 CHURN FINDINGS:
+- Overall churn: 30% (1,382 customers)
+- Champions churn: 35-40% (CRITICAL!)
+- Revenue at risk: £50,000+
+- Recovery opportunity: £15,000+ if 30% return
+
+💰 FINANCIAL IMPACT:
+- Top 20% customers = 60% revenue
+- One-time buyers = 70% of customer base
+- Peak season: Nov-Dec (45% annual revenue)
+
+✅ RECOMMENDATIONS:
+1. Re-engagement campaign (£15K+ impact)
+2. VIP loyalty program (£100K+ annual)
+3. Frequency booster (£200K+ new revenue)
+4. Seasonal optimization (10-15% uplift)
+5. Early warning system (20-25% churn prevention)
+
+TOTAL POTENTIAL: £250K+ annual improvement
