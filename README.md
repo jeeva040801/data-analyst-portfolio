@@ -1,7 +1,7 @@
 📊 Data Analyst Portfolio - Sanjeev Sreedhar
 Welcome to my analytics portfolio! This collection demonstrates my expertise in data exploration, customer analytics, business intelligence, and machine learning.
 Currently seeking: Junior Data Analyst / Business Analyst roles
-Email: jeevs4749@gmail.com | LinkedIn: linkedin.com/in/sanjeevsreedhar | GitHub: github.com/YOUR_USERNAME
+Email: jeevs4749@gmail.com | LinkedIn: linkedin.com/in/sanjeevsreedhar | GitHub: https://github.com/jeeva040801
 
 🎯 Projects Overview
 1. 📈 E-Commerce Customer Analytics - RFM & Churn Analysis
