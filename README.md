@@ -1,31 +1,41 @@
-📊 Data Analyst Portfolio - Sanjeev Sreedhar
-Welcome to my analytics portfolio! This collection demonstrates my expertise in data exploration, customer analytics, business intelligence, and machine learning.
-Currently seeking: Junior Data Analyst / Business Analyst roles
-Email: jeevs4749@gmail.com | LinkedIn: linkedin.com/in/sanjeevsreedhar | GitHub: https://github.com/jeeva040801
+# 📊 Data Analyst Portfolio
 
-🎯 Projects Overview
-1. 📈 E-Commerce Customer Analytics - RFM & Churn Analysis
-Status: ✅ COMPLETE | Difficulty: Beginner-Intermediate | Time: 2 weeks
-Problem: Online retailer needed to understand customer value and identify churn patterns to improve retention.
-Solution: Performed RFM analysis on 541K+ transactions, segmented 4,600 customers into 4 actionable tiers, and identified critical churn patterns.
-Key Deliverables:
+Welcome to my analytics portfolio. Projects below demonstrate skills in data exploration, 
+business intelligence, machine learning, and actionable insights generation.
 
-✅ RFM customer segmentation (Champions 21%, Loyal 23%, At Risk 28%, Lost 27%)
-✅ Churn analysis: 30% of customers inactive 90+ days = £50K revenue at risk
-✅ 200+ at-risk high-value customers identified
-✅ £15K-25K recovery potential quantified
-✅ 5 data-driven recommendations with ROI projections
-✅ 12+ professional visualizations
+## 🎯 Projects
 
-Business Impact:
+### 1. 📈 E-Commerce Customer Analytics (RFM & Churn)
+**Status:** ✅ Complete | **Time:** 2 weeks | **Difficulty:** Beginner-Intermediate
 
-£215K+ annual improvement potential
-14-16x ROI on retention programs
-Clear roadmap for 30-day and 1-year implementations
+Analyzed 500K+ transactions across 4,600 customers. Performed RFM segmentation 
+identifying high-value champions, at-risk customers, and churn patterns. 
+Quantified £50K revenue opportunity through retention strategies.
 
-Skills Demonstrated:
-EDA, Data Cleaning, RFM Segmentation, Customer Analysis, Churn Modeling, Statistical Analysis, Business Communication
-📂 Folder: 01_EDA_Ecommerce/
-📓 Notebook: analysis.ipynb
-📄 Full Analysis: README.md
-→ [View Project Details](./ecommerce-rfm-churn)
+**Key Deliverables:**
+- RFM customer segmentation (4 tiers)
+- Churn analysis with 30% churn rate identified
+- 200+ at-risk high-value customers identified
+- £15K+ recovery potential quantified
+- 5 actionable business recommendations
+- 12+ professional visualizations
+
+**Skills Demonstrated:** EDA, RFM Analysis, Customer Segmentation, Churn Analysis, 
+Data Cleaning, Statistical Analysis, Business Insights
+
+📂 **Folder:** `ecommerce-rfm-churn/`  
+📓 **Notebook:** `01_Eda_E_Commerce.ipynb` (541K+ transactions analyzed)  
+📄 **Full Analysis:** `README.md`
+
+→ [View Project Details](./ecommerce-rfm-churn/README.md)
+
+---
+
+
+
+
+
+
+
+
+
